@@ -95,4 +95,31 @@ export  $initHighlight;
 
 # Citas
 Esto es un texto referente a una cita que podremos debajo
+>Esto es una cita
+
+Esto es un texto que no tiene relacion con la cita anteriormente
+
+# Lineas divisoras
+Esto es un texto divido por guiones  ' --- '
+
+---
+Esto es otro texto dividido por asteriscos ' *** '
+
+***
+
+Esto es otro texto dividido por guiones bajos ' ___ '
+
+___
+
+# Saltos de linea
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error eum praesentium aspernatur? In eveniet consequatur eos soluta, repudiandae mollitia ipsum veniam, temporibus ratione incidunt laborum. Quis ex consectetur numquam iusto.
+
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error eum praesentium aspernatur?
+
+In eveniet consequatur eos soluta, repudiandae mollitia ipsum veniam, temporibus ratione incidunt laborum. Quis ex consectetur numquam iusto.
+
+
+
+
+
     
